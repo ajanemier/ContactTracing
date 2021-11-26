@@ -1,0 +1,17 @@
+C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\ContactTracing.exe
+C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\ContactTracing.deps.json
+C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\ContactTracing.runtimeconfig.json
+C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\ContactTracing.dll
+C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\ref\ContactTracing.dll
+C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\ContactTracing.pdb
+C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.csproj.AssemblyReference.cache
+C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.Form1.resources
+C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.csproj.GenerateResource.cache
+C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.AssemblyInfoInputs.cache
+C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.AssemblyInfo.cs
+C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.csproj.CoreCompileInputs.cache
+C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.dll
+C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ref\ContactTracing.dll
+C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.pdb
+C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.genruntimeconfig.cache
