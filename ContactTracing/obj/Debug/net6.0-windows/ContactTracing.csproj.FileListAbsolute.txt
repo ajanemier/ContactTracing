@@ -15,3 +15,11 @@ C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\Contac
 C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ref\ContactTracing.dll
 C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.pdb
 C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.genruntimeconfig.cache
+C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.Records.resources
+C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.csproj.CopyComplete

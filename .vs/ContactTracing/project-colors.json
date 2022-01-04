@@ -5,7 +5,17 @@
       "ProjectGuid": "9fd19cff-d5c6-4a4a-b1fa-469b2c5a3e97",
       "DisplayName": "ContactTracing",
       "ColorIndex": 0
+    },
+    "06fcdd72-b2c0-4d5d-bdff-98f57423d890": {
+      "ProjectGuid": "06fcdd72-b2c0-4d5d-bdff-98f57423d890",
+      "DisplayName": "DataViewer-ContactTracingForm",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
