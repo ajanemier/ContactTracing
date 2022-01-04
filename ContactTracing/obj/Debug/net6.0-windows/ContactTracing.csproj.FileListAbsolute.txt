@@ -23,3 +23,6 @@ C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\runtim
 C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.Records.resources
 C:\Users\63976\OOP\ContactTracing\ContactTracing\obj\Debug\net6.0-windows\ContactTracing.csproj.CopyComplete
+C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\MetroFramework.Design.dll
+C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\MetroFramework.Fonts.dll
+C:\Users\63976\OOP\ContactTracing\ContactTracing\bin\Debug\net6.0-windows\MetroFramework.dll
